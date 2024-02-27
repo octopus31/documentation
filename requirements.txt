@@ -32,3 +32,4 @@ sphinx-toolbox==3.5.0
 sphinx-reredirects==0.1.2 
 urllib3==2.0.6
 zipp==3.16.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
